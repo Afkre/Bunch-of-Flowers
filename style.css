@@ -2,6 +2,12 @@ body {
     background-color: rgb(230 230 230);
 }
 
+h1 {
+    font-size: 150px;
+    text-align: center;
+    
+}
+
 * {
     font-family: "Shalimar", cursive;
     font-size: 24px;
